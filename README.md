@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Gerald Works Profile Card
+
+Creating a Gerald Works Profile Card application using React. Working With Components, Props, and JSX. Styling React application, passing and receiving props, and using conditional rendering with &&.
+
+[Gerald Works](https://geraldworks-card.netlify.app/)
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
